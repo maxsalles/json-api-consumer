@@ -1,7 +1,7 @@
 {
-  "name": "my-project-name",
+  "name": "json-api-consumer",
   "version": "0.1.0",
-  "description": "My project description",
+  "description": "Consumer for requests and responses in JSON API standard",
   "main": "src/index.js",
   "files": [
     "src/**/*"

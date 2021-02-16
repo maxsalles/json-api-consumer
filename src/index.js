@@ -1,3 +1,6 @@
-import hello from './hello'
+import consume from './consume'
+import register from './register'
+import ModelMixin from './ModelMixin'
 
-console.log(hello())
+export { ModelMixin, register, consume }
+
